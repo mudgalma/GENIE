@@ -1,7 +1,7 @@
 # Environment variables
 .env
 env/
-
+venv/
 function_call_graph.py
 
 
