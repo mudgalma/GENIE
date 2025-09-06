@@ -235,7 +235,19 @@ Edit `config.py` to customize:
 - **Memory Issues**: Reduce file size or use sampling
 - **Session Recovery**: Use the session ID from the sidebar to recover work
 
-## 🚀  What's New
+## 🌍 Real-World Example
+
+**Scenario:**  
+A retail analyst uploads a messy sales Excel file with missing dates, mixed currencies, and duplicate rows.
+
+**Agentic Workflow:**  
+- The agent detects schema issues and missing values.
+- It suggests: "Convert all currencies to USD, fill missing dates, remove duplicates."
+- The agent generates and validates cleaning code.
+- Analyst reviews and runs the code.
+- The agent updates the quality score and packages the cleaned data and pipeline for future use.
+-
+- ## 🚀  What's New
 
 
 #### 🧠 Contextual AI Understanding
