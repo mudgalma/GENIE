@@ -7,8 +7,8 @@ An intelligent, automated data cleaning solution that leverages Large Language M
 This platform combines traditional data cleaning techniques with cutting-edge AI capabilities to automate the entire data preprocessing workflow. It automatically detects data quality issues, generates custom cleaning code using GPT-4, and creates reusable pipelines - all through an intuitive web interface. The system handles CSV, Excel (multi-sheet), JSON, and text files, making it a versatile solution for diverse data cleaning needs. What sets this platform apart is its ability to understand natural language instructions, generate context-aware cleaning strategies, and create production-ready Python pipelines that can be reused across similar datasets.
 
 ## 🚀 App Access
+**Streamlit Link:** [https://automatic-data-validatorv3.streamlit.app/](https://automatic-data-validatorv3.streamlit.app/)
 
-**Streamlit Link:** [https://genie-iitm.streamlit.app/](https://genie-iitm.streamlit.app/)
 
 ## 📖 How to Use the App
 
