@@ -8,7 +8,7 @@ This platform combines traditional data cleaning techniques with cutting-edge AI
 
 ## 🚀 App Access
 
-**Streamlit Link:** [https://automatic-data-validatorv3.streamlit.app/](https://automatic-data-validatorv3.streamlit.app/)
+**Streamlit Link:** [https://automatic-data-validatorv3.streamlit.app/]((https://genie-iitm.streamlit.app/))
 
 ## 📖 How to Use the App
 
